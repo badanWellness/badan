@@ -539,6 +539,19 @@ section {
     color: var(--primary-light);
     font-weight: bold;
 }
+/*photo*/
+.design-images {
+  display: flex;
+  gap: 30px;             
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.design-images img {
+  width: 45%;
+  border-radius: 10px;    
+}
 
 /* Contact Section */
 .contact {
