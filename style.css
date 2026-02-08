@@ -121,7 +121,7 @@ body {
 .hero-icon {
     margin:  2rem 0 2rem 50px;
     width: 300px;
-    transform: translateX(50px);
+    transform: translateX(60px);
 }
 
 .hero-icon svg {
